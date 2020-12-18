@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeelWebAppAzureProject", "NeelWebAppAzureProject\NeelWebAppAzureProject.csproj", "{EA96F10F-8D02-4AB5-A502-6D32BA7D4666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA96F10F-8D02-4AB5-A502-6D32BA7D4666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA96F10F-8D02-4AB5-A502-6D32BA7D4666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA96F10F-8D02-4AB5-A502-6D32BA7D4666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA96F10F-8D02-4AB5-A502-6D32BA7D4666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DBC38E7-1D32-4E79-AEDF-DECC95BF63B8}
+	EndGlobalSection
+EndGlobal
