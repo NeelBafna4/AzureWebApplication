@@ -15,7 +15,7 @@ namespace NeelWebAppAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Neel's Azure Web Application";
+            ViewBag.Message = "Neel's Azure Web Application........ Updated";
 
             return View();
         }
